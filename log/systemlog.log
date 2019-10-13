@@ -1,0 +1,13 @@
+[2019-10-13 11:06:20,423] INFO in _internal:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2019-10-13 11:42:36,207] INFO in _internal:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2019-10-13 11:42:38,127] INFO in _internal: 127.0.0.1 - - [13/Oct/2019 11:42:38] "GET / HTTP/1.1" 404 -
+[2019-10-13 11:44:04,771] INFO in _internal: 127.0.0.1 - - [13/Oct/2019 11:44:04] "GET /index HTTP/1.1" 200 -
+[2019-10-13 11:44:04,819] INFO in _internal: 127.0.0.1 - - [13/Oct/2019 11:44:04] "GET /favicon.ico HTTP/1.1" 404 -
+[2019-10-13 11:46:40,727] INFO in _internal:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2019-10-13 11:46:51,289] INFO in _internal:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2019-10-13 11:47:06,637] INFO in _internal:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2019-10-13 12:21:07,320] INFO in _internal:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2019-10-13 12:50:19,153] INFO in _internal:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2019-10-13 12:50:38,395] INFO in _internal: 127.0.0.1 - - [13/Oct/2019 12:50:38] "GET / HTTP/1.1" 404 -
+[2019-10-13 12:50:43,820] INFO in _internal: 127.0.0.1 - - [13/Oct/2019 12:50:43] "GET /test HTTP/1.1" 200 -
+[2019-10-13 12:50:57,118] INFO in _internal: 127.0.0.1 - - [13/Oct/2019 12:50:57] "GET /index HTTP/1.1" 200 -
